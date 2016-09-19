@@ -1,0 +1,9 @@
+F:\files\C＃\myWIFI\myWIFI\bin\Debug\myWIFI.exe.config
+F:\files\C＃\myWIFI\myWIFI\bin\Debug\myWIFI.exe
+F:\files\C＃\myWIFI\myWIFI\bin\Debug\myWIFI.pdb
+F:\files\C＃\myWIFI\myWIFI\obj\Debug\myWIFI.csprojResolveAssemblyReference.cache
+F:\files\C＃\myWIFI\myWIFI\obj\Debug\myWIFI.Form1.resources
+F:\files\C＃\myWIFI\myWIFI\obj\Debug\myWIFI.Properties.Resources.resources
+F:\files\C＃\myWIFI\myWIFI\obj\Debug\myWIFI.csproj.GenerateResource.Cache
+F:\files\C＃\myWIFI\myWIFI\obj\Debug\myWIFI.exe
+F:\files\C＃\myWIFI\myWIFI\obj\Debug\myWIFI.pdb
